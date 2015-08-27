@@ -7,6 +7,7 @@ WordPress-Useful-Links
 * [Polylang](https://wordpress.org/plugins/polylang/) - Polylang allows you to create a bilingual or multilingual WordPress site. You write posts, pages and create categories and post tags as usual, and then define the language for each of them. The translation of a post, whether it is in the default language or not, is optional. 
 * [Intuitive Custom Post Order](https://ru.wordpress.org/plugins/intuitive-custom-post-order/) - Intuitively, order items( Posts, Pages, and Custom Post Types, and Custom Taxonomies ) using a drag and drop sortable JavaScript.
 * [Advanced Custom Fields](http://www.advancedcustomfields.com/) - Advanced Custom Fields is the perfect solution for any wordpress website which needs more flexible data like other Content Management Systems.
+* [WP Mail SMTP](https://wordpress.org/plugins/wp-mail-smtp/) - This plugin reconfigures the wp_mail() function to use SMTP instead of mail() and creates an options page that allows you to specify various options.
 
 ### Sites ###
 * [WordPress как на ладони - статьи, плагины, функций, оптимизация...](http://wp-kama.ru/) — Сайт о WordPress: плагины (включая авторские), оптимизация, хаки, хуки, настройка, описание функций и т.д. Помимо статей о WordPress на wp-kama.ru вы найдете, материалы из мира веб-разработки.
